@@ -26,29 +26,18 @@
 
 ### Linguagens e Ferramentas
 
-<img src="./images/javascript.svg" height="40">
-<img src="./images/typescript.svg" height="40">
-<img src="./images/nextjs.svg" height="40">
-<img src="./images/antd.svg" height="40">
-<img src="./images/github.svg" height="40">
-<img src="./images/mongodb.svg" height="40">
+<div style="display: flex; flex-direction: row">
+  <img src="./images/javascript.svg" height="40" style="margin-right: 4px">
+  <img src="./images/typescript.svg" height="40" style="margin-right: 4px">
+  <img src="./images/nextjs.svg" height="40" style="margin-right: 4px">
+  <img src="./images/antd.svg" height="40" style="margin-right: 4px">
+  <img src="./images/github.svg" height="40" style="margin-right: 4px">
+  <img src="./images/mongodb.svg" height="40" style="margin-right: 4px">
+</div>
 
 ### Projects Pinned
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigocgodoy&repo=marvel-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigocgodoy&repo=github-app">
-
-<!--
-**rodrigocgodoy/rodrigocgodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-direction: row">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigocgodoy&repo=marvel-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigocgodoy&repo=github-app">
+</div>
