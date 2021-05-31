@@ -20,9 +20,9 @@
 
 ### Resume
 
-- 💻 I’m currently working on full-time at <a href="https://github.com/orgs/Trivod" target="_blank">@Trivod</a> e <a href="https://github.com/orgs/Dellub" target="_blank">@Dellub</a>
-- 📚 I'm currently learning at UI Design, React Native e NodeJS
-- 💬 Ask me about for development front-end
+- 💻  I’m currently working on full-time at <a href="https://github.com/orgs/Trivod" target="_blank">@Trivod</a> e <a href="https://github.com/orgs/Dellub" target="_blank">@Dellub</a>
+- 📚  I'm currently learning at UI Design, React Native e NodeJS
+- 💬  Ask me about for development front-end
 
 ### Skills
 
